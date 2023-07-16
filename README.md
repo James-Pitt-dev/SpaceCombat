@@ -1,10 +1,9 @@
 # Space Combat
 <p>This project is a 2D minigame with a space combat theme, it is developed in Processing 4, a Java based platform for creating 2D objects, it focuses on aspects like player-enemy interactions, dynamic movement, and custom UI components. <br><br> The game's structure leverages OOP principles like class designs, inheritance systems, and uses collision detection algorithms . The player moves a ship around the screen, firing at enemies and objects to stay alive and progress through the stage.
 </p>
+<br>
 
 ![image](https://github.com/James-Pitt-dev/SpaceCombat/assets/39842510/8adc9057-3ef3-46f0-a275-ab8fc401d7f1)
-
-<a href="https://www.youtube.com/embed/CQN9a53oBGs" target="_blank"><p>Watch Gameplay</p></a>
 
 ## System Design
 ### Class Diagram
@@ -20,6 +19,7 @@
     <li>Menu state: The pause menu state, which is accessed by pressing the pause button or clicking the menu button during gameplay. This state allows the player to return to the GamePlay state.</li>
     <li>GameEnd state: The final state of the game, which is reached after killing enough enemies or the player dies from damage.</li>
   </ol>
+  <br>
   <img src="https://github.com/James-Pitt-dev/SpaceCombat/assets/39842510/07822818-9adb-4106-8cdc-734436411591"></img>
 </p>
 <p>
