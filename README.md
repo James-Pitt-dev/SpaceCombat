@@ -1,6 +1,6 @@
 # Space Combat
 
-Video Demo = https://youtu.be/CQN9a53oBGs?t=3
+Video Demo = https://youtu.be/CQN9a53oBGs?t=3 <br>
 Rough Playable Demo = https://openprocessing.org/sketch/2005503
 
 <p>This project is a 2D minigame with a space combat theme, it is developed in Processing 4, a Java based platform for creating 2D objects, it focuses on aspects like player-enemy interactions, dynamic movement, and custom UI components. <br><br> The game's structure leverages OOP principles like class designs, inheritance systems, and uses collision detection algorithms . The player moves a ship around the screen, firing at enemies and objects to stay alive and progress through the stage.
